@@ -1,14 +1,17 @@
-# Making a query to Whois API 2.0 web service
+# Using the Whois API 2.0 web service
 
-[WhoisXmlApi.com](https://whoisapi.whoisxmlapi.com/) has been gathering domain
-Whois records for almost all gTLDs and ccTLDs for over a decade.
-This data is unified, consistent, well parsed, and accurate and provided
-through real-time APIs.
+[Whois API 2.0](https://whoisapi.whoisxmlapi.com/) provides domain
+names'/IP addresses' well-parsed and accurate registration
+details—also known as Whois Records—such as registrant names, emails,
+addresses, registrar info, creation/expiration dates etc. for most of the
+gTLDs and ccTLDs.
 
-Here you'll find examples of using
-[Hosted Whois Web API 2.0](https://whoispai.whoisxmlapi.com/)
-implemented in multiple languages.
+Here you'll find examples of using the API implemented in multiple languages.
 
-Please, refer to
-[Whois API 2.0 docs](https://whoisapi.whoisxmlapi.com/docs) for
-authentication instructions.
+You'll need a
+[WhoisXmlApi account](https://whoisapi.whoisxmlapi.com/signup) to
+authenticate.
+
+Please, refer to the
+[Whois API 2.0 docs](https://whoisapi.whoisxmlapi.com/docs) for info on input
+parameters, request/response formats, authentication instructions and more.
