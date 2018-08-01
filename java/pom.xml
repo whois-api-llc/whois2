@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.whoisxmlapi.whoisapi</groupId>
-    <artifactId>whois2-api-key-example</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>whois-api-v2-example</artifactId>
+    <version>1.0</version>
 
     <dependencies>
         <dependency>
@@ -30,12 +30,10 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <executable>Whois2ApiKeyExample</executable>
-                    <mainClass>Whois2ApiKeyExample</mainClass>
+                    <mainClass>WhoisApiV2Sample</mainClass>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-
 
 </project>
